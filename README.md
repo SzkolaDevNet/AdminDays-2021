@@ -26,6 +26,7 @@ The application is meant **for demo purposes only** and should not be used in an
 
 
 ### Inne przydatne biblioteki / Other useful libraries
+* [Postman](https://www.postman.com/)
 * [NAPALM](https://napalm.readthedocs.com/)
 * [Nornir](https://nornir.readthedocs.com/)
 * [pyATS](https://developer.cisco.com/pyats/)
