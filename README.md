@@ -25,7 +25,7 @@ The application is meant **for demo purposes only** and should not be used in an
 * SNMP - [PySNMP](https://pypi.org/project/pysnmp/)
 
 
-### Inne przydatne biblioteki / Other useful libraries
+### Inne przydatne biblioteki i narzedzia / Other useful libraries and tools
 * [Postman](https://www.postman.com/)
 * [NAPALM](https://napalm.readthedocs.com/)
 * [Nornir](https://nornir.readthedocs.com/)
