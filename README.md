@@ -7,7 +7,9 @@ The repository contains the complete source code of a demo Python automation app
 The application is meant **for demo purposes only** and should not be used in any production or test environment. You should also never hardcode credentials or any other sensitive information in the source code.
 **You are using the code on your responsibility.**
 
+# Szkoła DevNet
 
+Koniecznie odwiedź portal [Szkoła DevNet](https://szkoladevnet.pl) i zapisz się na newsletter aby otrzymywać ciekawe i przydatne w pracy informacje związane z szeroko pojętą automatyzacją w IT.
 
 # Przydatne linki / useful links
 
